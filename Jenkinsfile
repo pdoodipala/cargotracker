@@ -13,7 +13,7 @@ pipeline
         // Where your Nexus is running
         NEXUS_URL = "localhost:8081"
         // Repository where we will upload the artifact
-        NEXUS_REPOSITORY = "mavenrepo"
+        NEXUS_REPOSITORY = "maven-repo"
         // Jenkins credential id to authenticate to Nexus OSS
         NEXUS_CREDENTIAL_ID = "eb076cd8-8d23-4a6d-b867-4e9a977dd444"
     }
